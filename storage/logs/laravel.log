@@ -1,0 +1,1320 @@
+[2022-01-04 02:55:06] production.DEBUG: Message-ID: <0560e15e71500448ca226007f2f7d533@127.0.0.1>
+Date: Tue, 04 Jan 2022 02:55:05 -0500
+Subject: New badge
+From: mail@lms.rocket-soft.org
+To: admin@mutiaraharapan.sch.id
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+    
+    <style type="text/css">
+        /* /\/\/\/\/\/\/\/\/ CLIENT-SPECIFIC STYLES /\/\/\/\/\/\/\/\/ */
+        #outlook a {
+            padding: 0;
+        }
+
+        /* Force Outlook to provide a "view in browser" message */
+        .ReadMsgBody {
+            width: 100%;
+        }
+
+        .ExternalClass {
+            width: 100%;
+        }
+
+        /* Force Hotmail to display emails at full width */
+        .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+            line-height: 100%;
+        }
+
+        /* Force Hotmail to display normal line spacing */
+        body, table, td, p, a, li, blockquote {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+
+        /* Prevent WebKit and Windows mobile changing default text sizes */
+        table, td {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+
+        /* Remove spacing between tables in Outlook 2007 and up */
+        img {
+            -ms-interpolation-mode: bicubic;
+        }
+
+        /* Allow smoother rendering of resized image in Internet Explorer */
+        /* /\/\/\/\/\/\/\/\/ RESET STYLES /\/\/\/\/\/\/\/\/ */
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        img {
+            border: 0;
+            height: auto;
+            line-height: 100%;
+            outline: none;
+            text-decoration: none;
+        }
+
+        table {
+            border-collapse: collapse !important;
+        }
+
+        body, #bodyTable, #bodyCell {
+            height: 100% !important;
+            margin: 0;
+            padding: 0;
+            width: 100% !important;
+        }
+
+        /* /\/\/\/\/\/\/\/\/ TEMPLATE STYLES /\/\/\/\/\/\/\/\/ */
+        /* ========== Page Styles ========== */
+        * {
+            font-family: Tahoma, Geneva, sans-serif !important;
+        }
+
+        #bodyCell {
+            padding: 0;
+        }
+
+        #templateContainer {
+            width: 600px;
+        }
+
+        body, #bodyTable {
+            background-color: #F5F6F7;
+        }
+
+        #bodyCell {
+            border-top: 5px solid #43d477;
+        }
+
+        #templateContainer {
+            border: 1px solid #BBBBBB;
+        }
+
+        h1 {
+            display: block;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: bold;
+            line-height: 100%;
+            letter-spacing: normal;
+            margin-top: 0;
+            margin-right: 0;
+            margin-bottom: 30px;
+            margin-left: 0;
+            text-align: center;
+            color: #484848;
+        }
+
+        h2 {
+            color: #404040 !important;
+            display: block;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: bold;
+            line-height: 100%;
+            letter-spacing: normal;
+            margin-top: 0;
+            margin-right: 0;
+            margin-bottom: 10px;
+            margin-left: 0;
+            text-align: left;
+        }
+
+        h3 {
+            display: block;
+            font-size: 16px;
+            font-weight: bold;
+            line-height: 160%;
+            letter-spacing: normal;
+            margin-top: 0;
+            margin-right: 0;
+            margin-bottom: 10px;
+            margin-left: 0;
+            color: #3b4144;
+        }
+
+        h4 {
+            color: #808080 !important;
+            display: block;
+            font-size: 14px;
+            font-style: italic;
+            font-weight: normal;
+            line-height: 100%;
+            letter-spacing: normal;
+            margin-top: 0;
+            margin-right: 0;
+            margin-bottom: 10px;
+            margin-left: 0;
+            text-align: left;
+        }
+
+        /* ========== Header Styles ========== */
+        #templatePreheader {
+            /* background-color:#F4F4F4;*/
+            /* border-bottom:1px solid #CCCCCC;*/
+        }
+
+        .preheaderContent {
+            color: #808080;
+            font-size: 10px;
+            line-height: 125%;
+            text-align: right;
+        }
+
+        .preheaderContent a:link, .preheaderContent a:visited,
+        .preheaderContent a .yshortcuts {
+            color: #606060;
+            font-weight: normal;
+        }
+
+        #templateHeader {
+            border-top: 1px solid #FFFFFF;
+            border-bottom: 1px solid #CCCCCC;
+        }
+
+        .headerContent {
+            color: #505050;
+            font-size: 20px;
+            font-weight: bold;
+            line-height: 100%;
+            padding-top: 0;
+            padding-right: 0;
+            padding-bottom: 0;
+            padding-left: 0;
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        .headerContent a:link, .headerContent a:visited,
+        .headerContent a .yshortcuts {
+            color: #43d477;
+            font-weight: normal;
+        }
+
+        #headerImage {
+            height: auto;
+            max-width: 600px;
+        }
+
+        /* ========== Body Styles ========== */
+        #templateBody {
+            /*
+
+        @editable      border-top:1px solid #FFFFFF;*/
+            /*
+
+        @editable      border-bottom:1px solid #CCCCCC;*/
+        }
+
+        .bodyContent {
+            color: #505050;
+            font-size: 14px;
+            line-height: 150%;
+            padding-top: 30px;
+            padding-right: 30px;
+            padding-bottom: 30px;
+            padding-left: 30px;
+            text-align: left;
+        }
+
+        .bodyContent a:link, .bodyContent a:visited,
+        .bodyContent a .yshortcuts {
+            color: #43d477;
+            font-weight: normal;
+            text-decoration: none;
+        }
+
+        .bodyContent img {
+            display: inline;
+            height: auto;
+            max-width: 560px;
+        }
+
+        /* ========== Footer Styles ========== */
+        #templateFooter {
+            /*
+
+        @editable      border-top:1px solid #FFFFFF;*/
+        }
+
+        .footerContent {
+            color: #999999;
+            font-size: 14px;
+            line-height: 150%;
+            padding-top: 20px;
+            padding-right: 20px;
+            padding-bottom: 20px;
+            padding-left: 20px;
+            text-align: center;
+        }
+
+        .footerContent a:link, .footerContent a:visited,
+        .footerContent a .yshortcuts, .footerContent a span {
+            color: #999999;
+            font-weight: normal;
+            text-decoration: none;
+        }
+
+        /* /\/\/\/\/\/\/\/\/ MOBILE STYLES /\/\/\/\/\/\/\/\/ */
+        @media  only screen and (max-width: 480px) {
+            /* /\/\/\/\/\/\/ CLIENT-SPECIFIC MOBILE STYLES /\/\/\/\/\/\/ */
+            body, table, td, p, a, li, blockquote {
+                -webkit-text-size-adjust: none !important;
+            }
+
+            /* Prevent Webkit platforms from changing default text sizes */
+            body {
+                width: 100% !important;
+                min-width: 100% !important;
+            }
+
+            /* Prevent iOS Mail from adding padding to the body */
+            /* /\/\/\/\/\/\/ MOBILE RESET STYLES /\/\/\/\/\/\/ */
+            #bodyCell {
+                padding: 0px !important;
+            }
+
+            /* /\/\/\/\/\/\/ MOBILE TEMPLATE STYLES /\/\/\/\/\/\/ */
+            /* ======== Page Styles ======== */
+            #templateContainer {
+                max-width: 600px !important;
+                width: 100% !important;
+            }
+
+            h1 {
+                font-size: 20px !important;
+                line-height: 120% !important;
+            }
+
+            h2 {
+                font-size: 20px !important;
+                line-height: 100% !important;
+            }
+
+            h3 {
+                font-size: 18px !important;
+            }
+
+            h4 {
+                font-size: 16px !important;
+                line-height: 100% !important;
+            }
+
+            /* ======== Header Styles ======== */
+            /*#templatePreheader{display:none !important;}*/
+            /* Hide the template preheader to save space */
+            #headerImage {
+                height: auto !important;
+                max-width: 600px !important;
+                width: 100% !important;
+            }
+
+            .headerContent {
+                font-size: 20px !important;
+                line-height: 125% !important;
+            }
+
+            /* ======== Body Styles ======== */
+            .bodyContent {
+                font-size: 16px !important;
+                line-height: 125% !important;
+            }
+
+            /* ======== Footer Styles ======== */
+            .footerContent {
+                font-size: 14px !important;
+                line-height: 115% !important;
+            }
+
+            /* ======== Column Styles ======== */
+            .templateColumnContainer {
+                display: table !important;
+                width: 100% !important;
+            }
+
+            .columnImage {
+                height: auto !important;
+                max-width: 480px !important;
+                width: 100% !important;
+            }
+
+            .leftColumnContent {
+                font-size: 16px !important;
+                line-height: 125% !important;
+            }
+
+            .rightColumnContent {
+                font-size: 16px !important;
+                line-height: 125% !important;
+            }
+
+            .more {
+                margin-bottom: 20px;
+            }
+        }
+
+        .templateContainer {
+            border: none !important;
+        }
+
+        .headerContent {
+            padding-top: 20px;
+            padding-right: 30px;
+            padding-left: 30px;
+        }
+
+        .bodyContent {
+            background-color: #fff;
+            display: block;
+            margin: 20px;
+        }
+
+        #templateContainer {
+            border: none;
+        }
+
+        p {
+            font-weight: 100;
+            text-align: left;
+            line-height: 1.7rem;
+        }
+
+        .btn {
+            border: medium none;
+            cursor: pointer;
+            text-align: center;
+            -webkit-transition: background 200ms ease 0s;
+            transition: background 200ms ease 0s;
+            background: #43d477;
+            color: #ffffff !important;
+            font-size: 1rem;
+            margin-top: 40px;
+            padding: 10px 0 12px 0;
+            text-decoration: none !important;
+            display: block;
+            border-radius: 4px;
+        }
+
+        .code {
+            text-align: center;
+            color: #43d477;
+            font-size: 32px;
+            font-weight: bold;
+        }
+
+        .properties-wrapper {
+            padding-top: 25px;
+            padding-right: 15px;
+            padding-left: 15px;
+            padding-bottom: 0;
+        }
+
+        .post-wrapper {
+            padding: 20px 10px 10px 10px !important;
+        }
+
+        /* ========== Column Styles ========== */
+        .templateColumnContainer {
+            width: 260px;
+        }
+
+        /**
+        *
+        @tab
+        Columns
+                *
+        @
+        section left column text
+                *
+        @tip
+        Set the styling for your email's left column content text. Choose a size and color that is easy to read.
+                */
+        .leftColumnContent {
+            color: #505050;
+            font-size: 14px;
+            line-height: 150%;
+            padding-top: 0;
+            padding-right: 20px;
+            padding-bottom: 20px;
+            padding-left: 20px;
+            text-align: right;
+        }
+
+        .leftColumnContent a:link, .leftColumnContent a:visited,
+        .leftColumnContent a .yshortcuts {
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        /**
+        *
+        @tab
+        Columns
+                *
+        @
+        section right column text
+                *
+        @tip
+        Set the styling for your email's right column content text. Choose a size and color that is easy to read.
+                */
+        .rightColumnContent {
+            color: #505050;
+            font-size: 14px;
+            line-height: 150%;
+            padding-top: 0;
+            padding-right: 20px;
+            padding-bottom: 20px;
+            padding-left: 20px;
+        }
+
+        /**
+        *
+        @tab
+        Columns
+                *
+        @
+        section right column link
+                *
+        @tip
+        Set the styling for your email's right column content links. Choose a color that helps them stand out from your text.
+                */
+        .rightColumnContent a:link, .rightColumnContent a:visited,
+        .rightColumnContent a .yshortcuts {
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        .leftColumnContent img, .rightColumnContent img {
+            display: inline;
+            height: auto;
+            max-width: 260px;
+        }
+
+        .alert {
+            padding: 15px;
+            margin-bottom: 22px;
+            border: 1px solid transparent;
+            border-radius: 4px;
+        }
+        .alert-info {
+            color: #31708f;
+            background-color: #d9edf7;
+            border-color: #bce8f1;
+        }
+        .emailConfigCode {
+            text-align: center;
+            font-size: 25px;
+        }
+
+    </style>
+          <title>Rocket LMS</title>
+   </head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+<center>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
+        <tr>
+            <td align="center" valign="top" id="bodyCell">
+                <!-- BEGIN TEMPLATE // -->
+                <table border="0" cellpadding="0" cellspacing="0" id="templateContainer">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- BEGIN PREHEADER // -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templatePreheader">
+                                <tr>
+                                    <td class="headerContent" width="100%">
+                                        <a href=""><img src="http://localhost:8000/store/1/default_images/website-logo.png" style="max-width:128px;margin-bottom: 8px;margin-top: 24px" id="headerImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowtext/></a>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- // END PREHEADER -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- BEGIN BODY // -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateBody">
+                                <tr>
+                                        <!-- content -->
+    <td valign="top" class="bodyContent" mc:edit="body_content">
+        <h1 class="h1">New badge</h1>
+        <p><p>Congratilations! You received Top Seller&nbsp;badge.</p></p>
+
+        <p>If you didnt submit this request, please ignore it.</p>
+    </td>
+
+                                </tr>
+                            </table>
+                            <!-- // END BODY -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- BEGIN FOOTER // -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateFooter">
+                                <tr>
+                                    <td valign="top" class="footerContent" style="padding-top:0; padding-bottom:40px;" mc:edit="footer_content02">
+                                                                            </td>
+                                </tr>
+                                
+                            </table>
+                            <!-- // END FOOTER -->
+                        </td>
+                    </tr>
+                </table>
+                <!-- // END TEMPLATE -->
+            </td>
+        </tr>
+    </table>
+</center>
+</body>
+</html>
+  
+[2022-01-04 02:56:01] production.DEBUG: Message-ID: <22815b0d98a51009365e201110ca097d@127.0.0.1>
+Date: Tue, 04 Jan 2022 02:56:01 -0500
+Subject: New badge
+From: mail@lms.rocket-soft.org
+To: pebriansyah@mutiaraharapan.sch.id
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+    
+    <style type="text/css">
+        /* /\/\/\/\/\/\/\/\/ CLIENT-SPECIFIC STYLES /\/\/\/\/\/\/\/\/ */
+        #outlook a {
+            padding: 0;
+        }
+
+        /* Force Outlook to provide a "view in browser" message */
+        .ReadMsgBody {
+            width: 100%;
+        }
+
+        .ExternalClass {
+            width: 100%;
+        }
+
+        /* Force Hotmail to display emails at full width */
+        .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+            line-height: 100%;
+        }
+
+        /* Force Hotmail to display normal line spacing */
+        body, table, td, p, a, li, blockquote {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+        }
+
+        /* Prevent WebKit and Windows mobile changing default text sizes */
+        table, td {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+        }
+
+        /* Remove spacing between tables in Outlook 2007 and up */
+        img {
+            -ms-interpolation-mode: bicubic;
+        }
+
+        /* Allow smoother rendering of resized image in Internet Explorer */
+        /* /\/\/\/\/\/\/\/\/ RESET STYLES /\/\/\/\/\/\/\/\/ */
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        img {
+            border: 0;
+            height: auto;
+            line-height: 100%;
+            outline: none;
+            text-decoration: none;
+        }
+
+        table {
+            border-collapse: collapse !important;
+        }
+
+        body, #bodyTable, #bodyCell {
+            height: 100% !important;
+            margin: 0;
+            padding: 0;
+            width: 100% !important;
+        }
+
+        /* /\/\/\/\/\/\/\/\/ TEMPLATE STYLES /\/\/\/\/\/\/\/\/ */
+        /* ========== Page Styles ========== */
+        * {
+            font-family: Tahoma, Geneva, sans-serif !important;
+        }
+
+        #bodyCell {
+            padding: 0;
+        }
+
+        #templateContainer {
+            width: 600px;
+        }
+
+        body, #bodyTable {
+            background-color: #F5F6F7;
+        }
+
+        #bodyCell {
+            border-top: 5px solid #43d477;
+        }
+
+        #templateContainer {
+            border: 1px solid #BBBBBB;
+        }
+
+        h1 {
+            display: block;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: bold;
+            line-height: 100%;
+            letter-spacing: normal;
+            margin-top: 0;
+            margin-right: 0;
+            margin-bottom: 30px;
+            margin-left: 0;
+            text-align: center;
+            color: #484848;
+        }
+
+        h2 {
+            color: #404040 !important;
+            display: block;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: bold;
+            line-height: 100%;
+            letter-spacing: normal;
+            margin-top: 0;
+            margin-right: 0;
+            margin-bottom: 10px;
+            margin-left: 0;
+            text-align: left;
+        }
+
+        h3 {
+            display: block;
+            font-size: 16px;
+            font-weight: bold;
+            line-height: 160%;
+            letter-spacing: normal;
+            margin-top: 0;
+            margin-right: 0;
+            margin-bottom: 10px;
+            margin-left: 0;
+            color: #3b4144;
+        }
+
+        h4 {
+            color: #808080 !important;
+            display: block;
+            font-size: 14px;
+            font-style: italic;
+            font-weight: normal;
+            line-height: 100%;
+            letter-spacing: normal;
+            margin-top: 0;
+            margin-right: 0;
+            margin-bottom: 10px;
+            margin-left: 0;
+            text-align: left;
+        }
+
+        /* ========== Header Styles ========== */
+        #templatePreheader {
+            /* background-color:#F4F4F4;*/
+            /* border-bottom:1px solid #CCCCCC;*/
+        }
+
+        .preheaderContent {
+            color: #808080;
+            font-size: 10px;
+            line-height: 125%;
+            text-align: right;
+        }
+
+        .preheaderContent a:link, .preheaderContent a:visited,
+        .preheaderContent a .yshortcuts {
+            color: #606060;
+            font-weight: normal;
+        }
+
+        #templateHeader {
+            border-top: 1px solid #FFFFFF;
+            border-bottom: 1px solid #CCCCCC;
+        }
+
+        .headerContent {
+            color: #505050;
+            font-size: 20px;
+            font-weight: bold;
+            line-height: 100%;
+            padding-top: 0;
+            padding-right: 0;
+            padding-bottom: 0;
+            padding-left: 0;
+            text-align: center;
+            vertical-align: middle;
+        }
+
+        .headerContent a:link, .headerContent a:visited,
+        .headerContent a .yshortcuts {
+            color: #43d477;
+            font-weight: normal;
+        }
+
+        #headerImage {
+            height: auto;
+            max-width: 600px;
+        }
+
+        /* ========== Body Styles ========== */
+        #templateBody {
+            /*
+
+        @editable      border-top:1px solid #FFFFFF;*/
+            /*
+
+        @editable      border-bottom:1px solid #CCCCCC;*/
+        }
+
+        .bodyContent {
+            color: #505050;
+            font-size: 14px;
+            line-height: 150%;
+            padding-top: 30px;
+            padding-right: 30px;
+            padding-bottom: 30px;
+            padding-left: 30px;
+            text-align: left;
+        }
+
+        .bodyContent a:link, .bodyContent a:visited,
+        .bodyContent a .yshortcuts {
+            color: #43d477;
+            font-weight: normal;
+            text-decoration: none;
+        }
+
+        .bodyContent img {
+            display: inline;
+            height: auto;
+            max-width: 560px;
+        }
+
+        /* ========== Footer Styles ========== */
+        #templateFooter {
+            /*
+
+        @editable      border-top:1px solid #FFFFFF;*/
+        }
+
+        .footerContent {
+            color: #999999;
+            font-size: 14px;
+            line-height: 150%;
+            padding-top: 20px;
+            padding-right: 20px;
+            padding-bottom: 20px;
+            padding-left: 20px;
+            text-align: center;
+        }
+
+        .footerContent a:link, .footerContent a:visited,
+        .footerContent a .yshortcuts, .footerContent a span {
+            color: #999999;
+            font-weight: normal;
+            text-decoration: none;
+        }
+
+        /* /\/\/\/\/\/\/\/\/ MOBILE STYLES /\/\/\/\/\/\/\/\/ */
+        @media  only screen and (max-width: 480px) {
+            /* /\/\/\/\/\/\/ CLIENT-SPECIFIC MOBILE STYLES /\/\/\/\/\/\/ */
+            body, table, td, p, a, li, blockquote {
+                -webkit-text-size-adjust: none !important;
+            }
+
+            /* Prevent Webkit platforms from changing default text sizes */
+            body {
+                width: 100% !important;
+                min-width: 100% !important;
+            }
+
+            /* Prevent iOS Mail from adding padding to the body */
+            /* /\/\/\/\/\/\/ MOBILE RESET STYLES /\/\/\/\/\/\/ */
+            #bodyCell {
+                padding: 0px !important;
+            }
+
+            /* /\/\/\/\/\/\/ MOBILE TEMPLATE STYLES /\/\/\/\/\/\/ */
+            /* ======== Page Styles ======== */
+            #templateContainer {
+                max-width: 600px !important;
+                width: 100% !important;
+            }
+
+            h1 {
+                font-size: 20px !important;
+                line-height: 120% !important;
+            }
+
+            h2 {
+                font-size: 20px !important;
+                line-height: 100% !important;
+            }
+
+            h3 {
+                font-size: 18px !important;
+            }
+
+            h4 {
+                font-size: 16px !important;
+                line-height: 100% !important;
+            }
+
+            /* ======== Header Styles ======== */
+            /*#templatePreheader{display:none !important;}*/
+            /* Hide the template preheader to save space */
+            #headerImage {
+                height: auto !important;
+                max-width: 600px !important;
+                width: 100% !important;
+            }
+
+            .headerContent {
+                font-size: 20px !important;
+                line-height: 125% !important;
+            }
+
+            /* ======== Body Styles ======== */
+            .bodyContent {
+                font-size: 16px !important;
+                line-height: 125% !important;
+            }
+
+            /* ======== Footer Styles ======== */
+            .footerContent {
+                font-size: 14px !important;
+                line-height: 115% !important;
+            }
+
+            /* ======== Column Styles ======== */
+            .templateColumnContainer {
+                display: table !important;
+                width: 100% !important;
+            }
+
+            .columnImage {
+                height: auto !important;
+                max-width: 480px !important;
+                width: 100% !important;
+            }
+
+            .leftColumnContent {
+                font-size: 16px !important;
+                line-height: 125% !important;
+            }
+
+            .rightColumnContent {
+                font-size: 16px !important;
+                line-height: 125% !important;
+            }
+
+            .more {
+                margin-bottom: 20px;
+            }
+        }
+
+        .templateContainer {
+            border: none !important;
+        }
+
+        .headerContent {
+            padding-top: 20px;
+            padding-right: 30px;
+            padding-left: 30px;
+        }
+
+        .bodyContent {
+            background-color: #fff;
+            display: block;
+            margin: 20px;
+        }
+
+        #templateContainer {
+            border: none;
+        }
+
+        p {
+            font-weight: 100;
+            text-align: left;
+            line-height: 1.7rem;
+        }
+
+        .btn {
+            border: medium none;
+            cursor: pointer;
+            text-align: center;
+            -webkit-transition: background 200ms ease 0s;
+            transition: background 200ms ease 0s;
+            background: #43d477;
+            color: #ffffff !important;
+            font-size: 1rem;
+            margin-top: 40px;
+            padding: 10px 0 12px 0;
+            text-decoration: none !important;
+            display: block;
+            border-radius: 4px;
+        }
+
+        .code {
+            text-align: center;
+            color: #43d477;
+            font-size: 32px;
+            font-weight: bold;
+        }
+
+        .properties-wrapper {
+            padding-top: 25px;
+            padding-right: 15px;
+            padding-left: 15px;
+            padding-bottom: 0;
+        }
+
+        .post-wrapper {
+            padding: 20px 10px 10px 10px !important;
+        }
+
+        /* ========== Column Styles ========== */
+        .templateColumnContainer {
+            width: 260px;
+        }
+
+        /**
+        *
+        @tab
+        Columns
+                *
+        @
+        section left column text
+                *
+        @tip
+        Set the styling for your email's left column content text. Choose a size and color that is easy to read.
+                */
+        .leftColumnContent {
+            color: #505050;
+            font-size: 14px;
+            line-height: 150%;
+            padding-top: 0;
+            padding-right: 20px;
+            padding-bottom: 20px;
+            padding-left: 20px;
+            text-align: right;
+        }
+
+        .leftColumnContent a:link, .leftColumnContent a:visited,
+        .leftColumnContent a .yshortcuts {
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        /**
+        *
+        @tab
+        Columns
+                *
+        @
+        section right column text
+                *
+        @tip
+        Set the styling for your email's right column content text. Choose a size and color that is easy to read.
+                */
+        .rightColumnContent {
+            color: #505050;
+            font-size: 14px;
+            line-height: 150%;
+            padding-top: 0;
+            padding-right: 20px;
+            padding-bottom: 20px;
+            padding-left: 20px;
+        }
+
+        /**
+        *
+        @tab
+        Columns
+                *
+        @
+        section right column link
+                *
+        @tip
+        Set the styling for your email's right column content links. Choose a color that helps them stand out from your text.
+                */
+        .rightColumnContent a:link, .rightColumnContent a:visited,
+        .rightColumnContent a .yshortcuts {
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+        .leftColumnContent img, .rightColumnContent img {
+            display: inline;
+            height: auto;
+            max-width: 260px;
+        }
+
+        .alert {
+            padding: 15px;
+            margin-bottom: 22px;
+            border: 1px solid transparent;
+            border-radius: 4px;
+        }
+        .alert-info {
+            color: #31708f;
+            background-color: #d9edf7;
+            border-color: #bce8f1;
+        }
+        .emailConfigCode {
+            text-align: center;
+            font-size: 25px;
+        }
+
+    </style>
+          <title>Rocket LMS</title>
+   </head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+<center>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable">
+        <tr>
+            <td align="center" valign="top" id="bodyCell">
+                <!-- BEGIN TEMPLATE // -->
+                <table border="0" cellpadding="0" cellspacing="0" id="templateContainer">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- BEGIN PREHEADER // -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templatePreheader">
+                                <tr>
+                                    <td class="headerContent" width="100%">
+                                        <a href=""><img src="http://localhost:8000/store/1/default_images/website-logo.png" style="max-width:128px;margin-bottom: 8px;margin-top: 24px" id="headerImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowtext/></a>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- // END PREHEADER -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- BEGIN BODY // -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateBody">
+                                <tr>
+                                        <!-- content -->
+    <td valign="top" class="bodyContent" mc:edit="body_content">
+        <h1 class="h1">New badge</h1>
+        <p><p>Congratilations! You received Loyal User&nbsp;badge.</p></p>
+
+        <p>If you didnt submit this request, please ignore it.</p>
+    </td>
+
+                                </tr>
+                            </table>
+                            <!-- // END BODY -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- BEGIN FOOTER // -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateFooter">
+                                <tr>
+                                    <td valign="top" class="footerContent" style="padding-top:0; padding-bottom:40px;" mc:edit="footer_content02">
+                                                                            </td>
+                                </tr>
+                                
+                            </table>
+                            <!-- // END FOOTER -->
+                        </td>
+                    </tr>
+                </table>
+                <!-- // END TEMPLATE -->
+            </td>
+        </tr>
+    </table>
+</center>
+</body>
+</html>
+  
+[2022-01-04 22:31:02] production.ERROR: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ (SQL: select * from `sections`) {"exception":"[object] (Illuminate\\Database\\QueryException(code: 2002): SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ (SQL: select * from `sections`) at C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php:671)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(631): Illuminate\\Database\\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(339): Illuminate\\Database\\Connection->run('select * from `...', Array, Object(Closure))
+#2 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2270): Illuminate\\Database\\Connection->select('select * from `...', Array, true)
+#3 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2258): Illuminate\\Database\\Query\\Builder->runSelect()
+#4 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2753): Illuminate\\Database\\Query\\Builder->Illuminate\\Database\\Query\\{closure}()
+#5 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2259): Illuminate\\Database\\Query\\Builder->onceWithColumns(Array, Object(Closure))
+#6 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(548): Illuminate\\Database\\Query\\Builder->get(Array)
+#7 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(532): Illuminate\\Database\\Eloquent\\Builder->getModels(Array)
+#8 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(491): Illuminate\\Database\\Eloquent\\Builder->get(Array)
+#9 C:\\xampp\\htdocs\\lms\\app\\Providers\\AuthServiceProvider.php(30): Illuminate\\Database\\Eloquent\\Model::all()
+#10 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\Repository.php(383): App\\Providers\\AuthServiceProvider->App\\Providers\\{closure}()
+#11 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\CacheManager.php(383): Illuminate\\Cache\\Repository->remember('sections', 3600, Object(Closure))
+#12 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Cache\\CacheManager->__call('remember', Array)
+#13 C:\\xampp\\htdocs\\lms\\app\\Providers\\AuthServiceProvider.php(31): Illuminate\\Support\\Facades\\Facade::__callStatic('remember', Array)
+#14 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\AuthServiceProvider->boot()
+#15 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#16 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#17 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#18 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(596): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#19 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(867): Illuminate\\Container\\Container->call(Array)
+#20 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(850): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AuthServiceProvider))
+#21 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AuthServiceProvider), 41)
+#22 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(851): array_walk(Array, Object(Closure))
+#23 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#24 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(230): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#25 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#26 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#27 C:\\xampp\\htdocs\\lms\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#28 {main}
+
+[previous exception] [object] (PDOException(code: 2002): SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ at C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\Connector.php:70)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\Connector.php(46): Illuminate\\Database\\Connectors\\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\MySqlConnector.php(24): Illuminate\\Database\\Connectors\\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\ConnectionFactory.php(184): Illuminate\\Database\\Connectors\\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\\Database\\Connectors\\ConnectionFactory->Illuminate\\Database\\Connectors\\{closure}()
+#5 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(926): call_user_func(Object(Closure))
+#6 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(961): Illuminate\\Database\\Connection->getPdo()
+#7 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(405): Illuminate\\Database\\Connection->getReadPdo()
+#8 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(331): Illuminate\\Database\\Connection->getPdoForSelect(true)
+#9 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(664): Illuminate\\Database\\Connection->Illuminate\\Database\\{closure}('select * from `...', Array)
+#10 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(631): Illuminate\\Database\\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#11 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(339): Illuminate\\Database\\Connection->run('select * from `...', Array, Object(Closure))
+#12 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2270): Illuminate\\Database\\Connection->select('select * from `...', Array, true)
+#13 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2258): Illuminate\\Database\\Query\\Builder->runSelect()
+#14 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2753): Illuminate\\Database\\Query\\Builder->Illuminate\\Database\\Query\\{closure}()
+#15 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2259): Illuminate\\Database\\Query\\Builder->onceWithColumns(Array, Object(Closure))
+#16 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(548): Illuminate\\Database\\Query\\Builder->get(Array)
+#17 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(532): Illuminate\\Database\\Eloquent\\Builder->getModels(Array)
+#18 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(491): Illuminate\\Database\\Eloquent\\Builder->get(Array)
+#19 C:\\xampp\\htdocs\\lms\\app\\Providers\\AuthServiceProvider.php(30): Illuminate\\Database\\Eloquent\\Model::all()
+#20 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\Repository.php(383): App\\Providers\\AuthServiceProvider->App\\Providers\\{closure}()
+#21 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\CacheManager.php(383): Illuminate\\Cache\\Repository->remember('sections', 3600, Object(Closure))
+#22 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Cache\\CacheManager->__call('remember', Array)
+#23 C:\\xampp\\htdocs\\lms\\app\\Providers\\AuthServiceProvider.php(31): Illuminate\\Support\\Facades\\Facade::__callStatic('remember', Array)
+#24 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\AuthServiceProvider->boot()
+#25 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#27 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#28 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(596): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#29 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(867): Illuminate\\Container\\Container->call(Array)
+#30 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(850): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AuthServiceProvider))
+#31 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AuthServiceProvider), 41)
+#32 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(851): array_walk(Array, Object(Closure))
+#33 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#34 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(230): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#35 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#36 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#37 C:\\xampp\\htdocs\\lms\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#38 {main}
+"} 
+[2022-01-04 22:31:40] production.ERROR: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ (SQL: select * from `sections`) {"exception":"[object] (Illuminate\\Database\\QueryException(code: 2002): SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ (SQL: select * from `sections`) at C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php:671)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(631): Illuminate\\Database\\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#1 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(339): Illuminate\\Database\\Connection->run('select * from `...', Array, Object(Closure))
+#2 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2270): Illuminate\\Database\\Connection->select('select * from `...', Array, true)
+#3 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2258): Illuminate\\Database\\Query\\Builder->runSelect()
+#4 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2753): Illuminate\\Database\\Query\\Builder->Illuminate\\Database\\Query\\{closure}()
+#5 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2259): Illuminate\\Database\\Query\\Builder->onceWithColumns(Array, Object(Closure))
+#6 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(548): Illuminate\\Database\\Query\\Builder->get(Array)
+#7 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(532): Illuminate\\Database\\Eloquent\\Builder->getModels(Array)
+#8 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(491): Illuminate\\Database\\Eloquent\\Builder->get(Array)
+#9 C:\\xampp\\htdocs\\lms\\app\\Providers\\AuthServiceProvider.php(30): Illuminate\\Database\\Eloquent\\Model::all()
+#10 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\Repository.php(383): App\\Providers\\AuthServiceProvider->App\\Providers\\{closure}()
+#11 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\CacheManager.php(383): Illuminate\\Cache\\Repository->remember('sections', 3600, Object(Closure))
+#12 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Cache\\CacheManager->__call('remember', Array)
+#13 C:\\xampp\\htdocs\\lms\\app\\Providers\\AuthServiceProvider.php(31): Illuminate\\Support\\Facades\\Facade::__callStatic('remember', Array)
+#14 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\AuthServiceProvider->boot()
+#15 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#16 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#17 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#18 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(596): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#19 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(867): Illuminate\\Container\\Container->call(Array)
+#20 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(850): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AuthServiceProvider))
+#21 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AuthServiceProvider), 41)
+#22 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(851): array_walk(Array, Object(Closure))
+#23 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#24 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(230): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#25 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#26 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#27 C:\\xampp\\htdocs\\lms\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#28 {main}
+
+[previous exception] [object] (PDOException(code: 2002): SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+ at C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\Connector.php:70)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\Connector.php(70): PDO->__construct('mysql:host=127....', 'root', '', Array)
+#1 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\Connector.php(46): Illuminate\\Database\\Connectors\\Connector->createPdoConnection('mysql:host=127....', 'root', '', Array)
+#2 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\MySqlConnector.php(24): Illuminate\\Database\\Connectors\\Connector->createConnection('mysql:host=127....', Array, Array)
+#3 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\ConnectionFactory.php(184): Illuminate\\Database\\Connectors\\MySqlConnector->connect(Array)
+#4 [internal function]: Illuminate\\Database\\Connectors\\ConnectionFactory->Illuminate\\Database\\Connectors\\{closure}()
+#5 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(926): call_user_func(Object(Closure))
+#6 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(961): Illuminate\\Database\\Connection->getPdo()
+#7 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(405): Illuminate\\Database\\Connection->getReadPdo()
+#8 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(331): Illuminate\\Database\\Connection->getPdoForSelect(true)
+#9 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(664): Illuminate\\Database\\Connection->Illuminate\\Database\\{closure}('select * from `...', Array)
+#10 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(631): Illuminate\\Database\\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#11 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connection.php(339): Illuminate\\Database\\Connection->run('select * from `...', Array, Object(Closure))
+#12 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2270): Illuminate\\Database\\Connection->select('select * from `...', Array, true)
+#13 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2258): Illuminate\\Database\\Query\\Builder->runSelect()
+#14 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2753): Illuminate\\Database\\Query\\Builder->Illuminate\\Database\\Query\\{closure}()
+#15 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Query\\Builder.php(2259): Illuminate\\Database\\Query\\Builder->onceWithColumns(Array, Object(Closure))
+#16 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(548): Illuminate\\Database\\Query\\Builder->get(Array)
+#17 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Builder.php(532): Illuminate\\Database\\Eloquent\\Builder->getModels(Array)
+#18 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Eloquent\\Model.php(491): Illuminate\\Database\\Eloquent\\Builder->get(Array)
+#19 C:\\xampp\\htdocs\\lms\\app\\Providers\\AuthServiceProvider.php(30): Illuminate\\Database\\Eloquent\\Model::all()
+#20 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\Repository.php(383): App\\Providers\\AuthServiceProvider->App\\Providers\\{closure}()
+#21 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Cache\\CacheManager.php(383): Illuminate\\Cache\\Repository->remember('sections', 3600, Object(Closure))
+#22 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Facade.php(261): Illuminate\\Cache\\CacheManager->__call('remember', Array)
+#23 C:\\xampp\\htdocs\\lms\\app\\Providers\\AuthServiceProvider.php(31): Illuminate\\Support\\Facades\\Facade::__callStatic('remember', Array)
+#24 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(36): App\\Providers\\AuthServiceProvider->boot()
+#25 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Util.php(37): Illuminate\\Container\\BoundMethod::Illuminate\\Container\\{closure}()
+#26 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(93): Illuminate\\Container\\Util::unwrapIfClosure(Object(Closure))
+#27 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\BoundMethod.php(37): Illuminate\\Container\\BoundMethod::callBoundMethod(Object(Illuminate\\Foundation\\Application), Array, Object(Closure))
+#28 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Container\\Container.php(596): Illuminate\\Container\\BoundMethod::call(Object(Illuminate\\Foundation\\Application), Array, Array, NULL)
+#29 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(867): Illuminate\\Container\\Container->call(Array)
+#30 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(850): Illuminate\\Foundation\\Application->bootProvider(Object(App\\Providers\\AuthServiceProvider))
+#31 [internal function]: Illuminate\\Foundation\\Application->Illuminate\\Foundation\\{closure}(Object(App\\Providers\\AuthServiceProvider), 41)
+#32 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(851): array_walk(Array, Object(Closure))
+#33 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Bootstrap\\BootProviders.php(17): Illuminate\\Foundation\\Application->boot()
+#34 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Application.php(230): Illuminate\\Foundation\\Bootstrap\\BootProviders->bootstrap(Object(Illuminate\\Foundation\\Application))
+#35 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(310): Illuminate\\Foundation\\Application->bootstrapWith(Array)
+#36 C:\\xampp\\htdocs\\lms\\vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Console\\Kernel.php(127): Illuminate\\Foundation\\Console\\Kernel->bootstrap()
+#37 C:\\xampp\\htdocs\\lms\\artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#38 {main}
+"} 
